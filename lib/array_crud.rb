@@ -43,7 +43,7 @@ def remove_element_from_start_of_array(array)
   
   new_array = array.shift()
   
-  return array 
+  return new_array 
   
 end
 
