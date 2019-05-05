@@ -8,7 +8,7 @@ end
 
 def create_an_array
   
-  led_zepplin = ['Jimmy Page', 'sta' ]
+  led_zepplin = ['Jimmy Page', 'Robert Plant',  ]
   
   return my_syblings
   
