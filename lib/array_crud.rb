@@ -19,7 +19,7 @@ def add_element_to_end_of_array(array, element)
   
   array.push(element)
   
-  return my_syblings
+  return array
   
 end
 
