@@ -33,7 +33,7 @@ end
 
 def remove_element_from_end_of_array(array)
   
- new_array =  array.pop()
+ new_array =  array.pop
   
   return array 
 
