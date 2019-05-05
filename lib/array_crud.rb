@@ -1,6 +1,6 @@
 def create_an_empty_array
   
-  array = []
+  my syblings = ['rudi', 'remr' ]
   
 end
 
