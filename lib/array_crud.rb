@@ -2,7 +2,7 @@ def create_an_empty_array
   
   my_syblings = ['rudi', 'remi' ]
   
-  
+  return my_syblings
   
 end
 
