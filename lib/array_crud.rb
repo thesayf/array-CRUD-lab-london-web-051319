@@ -1,14 +1,14 @@
 def create_an_empty_array
   
-  my_syblings = ['rudi', 'remi' ]
-  
-  return my_syblings
+  empty_array[]
   
 end
 
 def create_an_array
   
-  empty_array[]
+  my_syblings = ['rudi', 'remi' ]
+  
+  return my_syblings
   
 end
 
