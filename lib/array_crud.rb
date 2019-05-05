@@ -18,7 +18,7 @@ def add_element_to_end_of_array(array, element)
 
   my_syblings = ['rudi', 'remi']
   
-  my_syblings.("rori")
+  my_syblings.push("rori")
   
   return my_syblings
   
