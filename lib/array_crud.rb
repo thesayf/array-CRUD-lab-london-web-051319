@@ -8,7 +8,7 @@ end
 
 def create_an_array
   
-  my_family = ['rudi', 'remi' ]
+  led_zepplin = ['rori', 'sta' ]
   
   return my_syblings
   
