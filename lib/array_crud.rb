@@ -12,9 +12,9 @@ end
 
 def add_element_to_end_of_array(array, element)
 
-  my syblings = ['rudi', 'remr']
+  my_syblings = ['rudi', 'remr']
   
-  
+  my_syblings.push
   
 end
 
